@@ -5,4 +5,6 @@ function Nav() {
         <h1>this is where the nav bar should be</h1>
         </>
     )
-}
+};
+
+export default Nav;
