@@ -1,0 +1,11 @@
+/*Custom Nav Bar Styles*/
+
+.custom-nav--box {
+    margin-left: 20rem;
+    font-size: 1.5rem;
+}
+
+.custom-nav--items {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
